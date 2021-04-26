@@ -12,4 +12,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use node_modules path or third party assets in angular files.](https://dev.to/lokeshdaiya/how-to-use-nodemodules-path-or-third-party-assets-in-angular-files-1jdj)
 <!-- BLOG-POST-LIST:END -->
