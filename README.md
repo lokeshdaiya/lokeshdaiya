@@ -1,7 +1,7 @@
 ### Hi there, I am Lokesh Daiya 👋
 
 - 🔭 I’m currently working on ...Angular, NodeJS, React
-- 🌱 I’m currently learning ...Azure
+- 🌱 I’m currently learning ...AWS
 - 👯 I’m looking to collaborate on ... Javascript, React
 - 📫 How to reach me: ...[Email](mailto:ldlucky2009@gmail.com), [LinkedIn](https://www.linkedin.com/in/lokesh-daiya/)
 
