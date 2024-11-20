@@ -11,5 +11,6 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NextJS server actions and forms with additional params](https://lokeshdaiya.medium.com/nextjs-server-actions-and-forms-with-additional-params-28db351457ad)
 - [How to use node_modules path or third party assets in angular files.](https://dev.to/lokeshdaiya/how-to-use-nodemodules-path-or-third-party-assets-in-angular-files-1jdj)
 <!-- BLOG-POST-LIST:END -->
